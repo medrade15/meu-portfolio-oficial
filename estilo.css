@@ -55,7 +55,7 @@ margin-left: 70%;
     font-size: 18px;
     font-weight: 600;
     border-radius: 25px;
-    background-color: #3426ec;
+    background-color: #7FFF00;
     border: none;
     cursor: pointer;
     transition: .2s;
@@ -70,12 +70,12 @@ h2.titulo {
 /* Estilo do cabeçalho  */
 
 h2.titulo span {
-    color: #3426ec;
+    color: #7FFF00;
 }
 
 button:hover,
 form .btn-enviar input:hover  {
-    box-shadow: 0px 0px 8px #3426ec;
+    box-shadow: 0px 0px 8px #7FFF00;
     transform: scale(1.07);
 }
 
@@ -90,7 +90,7 @@ header>.interface {
 }
 
 header a {
-    color: #7d7d7d;
+    color: #fff;
     text-decoration: none;
     display: inline-block;
     transition: .3s;
@@ -111,14 +111,14 @@ header nav.menu-desktop ul li {
 }
 
 .btn-contato button:hover {
-    box-shadow: 0px 0px 8px #3426ec;
+    box-shadow: 0px 0px 8px #7FFF00;
     transform: scale(1.07);
 }
 
 /*Estilo do menu mobile*/
 
 .btn-abrir-menu i{
-color: #3426ec;
+color: #7FFF00;
 font-size: 40px;
 }
 
@@ -139,7 +139,7 @@ font-size: 40px;
 }
 
 .menu-mobile .btn-fechar i{
-color: #3426ec;
+color: #7FFF00;
 font-size: 25px;
 
 }
@@ -157,7 +157,7 @@ font-size: 25px;
 }
 
 .menu-mobile nav ul li a:hover {
-    background-color: #3426ec;
+    background-color: #7FFF00c;
     color: #000;
 
 }
@@ -200,7 +200,7 @@ section.topo-do-site.flex {
 }
 
 .topo-do-site span {
-    color: #4249c9;
+    color: #7FFF00;
 }
 
 .topo-do-site .txt-topo-site p {
@@ -247,12 +247,12 @@ section.especialidades .flex {
 
 .especialidades .especialidades-box:hover {
     transform: scale(1.05);
-    box-shadow: 0 0 15px #ffffff78;
+    box-shadow: 0 0 15px #7d7d7d;
 }
 
 .especialidades .especialidades-box i {
     font-size: 70px;
-    color: #3426ec;
+    color: #7FFF00;
 }
 
 .especialidades .especialidades-box h3 {
@@ -280,7 +280,7 @@ section.sobre .flex {
 }
 
 .sobre .txt-sobre h2 span {
-    color: #3426ec;
+    color: #7FFF00;
     display: block;
 }
 
@@ -294,7 +294,7 @@ section.sobre .flex {
     height: 60px;
     border-radius: 60%;
     border: none;
-    background-color: #3426ec;
+    background-color: #7FFF00;
     font-size: 25px;
     cursor: pointer;
     margin: 0 5px;
@@ -356,7 +356,7 @@ section.portifolio .flex {
 .button-link {
 
     font-size: 16px;
-    color: #0000ff;
+    color: #7FFF00;
 
 }
 
@@ -366,7 +366,7 @@ section.portifolio .flex {
     display: flex;
     justify-content: center;
     gap: 365px;
-    color: #0000ff;
+    color: #7FFF00;
 
 
 }
@@ -429,7 +429,7 @@ form .btn-enviar {
 
 form .btn-enviar input {
     width: 120px;
-    background-color: #3426ec;
+    background-color: #7FFF00;
     color: #000;
     font-weight: 700;
     cursor: pointer;
@@ -453,11 +453,11 @@ footer .line-footer {
 }
 
 .borda {
-    border-top: 2px solid #3426ec;
+    border-top: 2px solid #7FFF00;
 }
 
 footer .line-footer p i {
-    color: #3426ec;
+    color: #7FFF00;
     font-size: 22px;
 }
 
